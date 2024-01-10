@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>imagens/adicionar-usuario.png</file>
+        <file>imagens/cadastrar-produto.png</file>
+        <file>imagens/Cadeado Aberto.png</file>
+        <file>imagens/Cadeado Fechado.png</file>
+        <file>imagens/icone.ico</file>
+        <file>imagens/icone.png</file>
+        <file>imagens/icone_deslogar.png</file>
+        <file>imagens/realizar-venda.png</file>
+    </qresource>
+    <qresource prefix="/Database" lang="SQL"/>
+</RCC>
